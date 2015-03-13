@@ -37,7 +37,7 @@ test3: code
 	$(GCC) $(CFLAGS) -c $*.c 
 
 clean:
-	rm -f *.o a.out code log*
+	rm -f *.o a.out code compress? log*
 
 
 
