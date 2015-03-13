@@ -1,0 +1,9 @@
+# Makefile for gcov
+GCC = gcc -g -Wall -Wshadow -fprofile-arcs -ftest-coverage
+cov: coverage.c
+	$(GCC) coverage.c -o cov
+	./cov
+	gcov coverage.c
+	grep "#" coverage.c.gcov
+clean:
+	rm -f *.gcov *.gcno cov
