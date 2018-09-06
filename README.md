@@ -42,6 +42,8 @@ Part 1 Storage
 
 11 Programming Problems Using File
 
+---
+
 Part 2 Recursion
 
 12 Recursion
@@ -51,6 +53,8 @@ Part 2 Recursion
 14 Integer Partition
 
 15 Programming Problems Using Recursion
+
+---
 
 Part 3 Structure
 
@@ -66,6 +70,8 @@ Part 3 Structure
 
 21 Parallel Programming Using Threads
 
+---
+
 Part 4 Applications
 
 22 Finding the Exit of a Maze
@@ -73,6 +79,8 @@ Part 4 Applications
 23 Image Processing
 
 24 Huffman Compression
+
+---
 
 A Linux
 
