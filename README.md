@@ -8,6 +8,8 @@ http://www.crcpress.com/product/isbn/9781498711630
 
 For Purdue students, please read [online copy](https://purdue-primo-prod.hosted.exlibrisgroup.com/primo-explore/search?institution=PURDUE&vid=PURDUE&tab=default_tab&search_scope=everything&mode=Basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,Intermediate%20C%20Programming&displayField=all&pcAvailabiltyMode=true)
 
+---
+
 Part 1 Storage (Memory and File)
 
 Part 2 Recursion
